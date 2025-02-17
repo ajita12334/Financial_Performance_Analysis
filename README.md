@@ -35,4 +35,4 @@ This project is a Financial Performance Analysis Dashboard built using Power BI.
 
 **Performance Page**
 
-<img src = " Performance page.png">
+<img src = "Performance page.png">
